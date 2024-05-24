@@ -1066,6 +1066,10 @@ with tab9:
         tooltip = {
             "html": "<b>{display_name}</b> <br/> <b>Strength</b>: {paper_cluster_score} <br>" + \
             "<b>source: {source} <br/> <b>target</b> {target} <br>" + \
-            "<b>count: {count} <br/>"
+            "<b>count: {count} <br/>",
+            "style": {
+                "backgroundColor": "white",
+                "color": "black"
+            }
         }
     ))
