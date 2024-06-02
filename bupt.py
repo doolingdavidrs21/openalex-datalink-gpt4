@@ -167,7 +167,7 @@ st.set_page_config(layout='wide')
 
 
 st.markdown("""
-[Beijing University of Posts and Telecommunications](https://techmonitor.ai/technology/cybersecurity/chinese-anti-satellite-cyber-weapon)
+[Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/)
 
 """)
 
